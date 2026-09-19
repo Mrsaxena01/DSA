@@ -6,3 +6,5 @@
     - Hello.cpp
     - primeNumber.cpp
     - fabonacci.cpp
+    - perfectSquare.cpp
+    - leapYear.cpp
