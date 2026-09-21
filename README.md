@@ -110,3 +110,8 @@
  - reverseOfNumber.cpp
          
        ex:- 123456 - 654321
+
+ - decimalToBinary.cpp
+      
+       ex:- 25 - 11001
+
