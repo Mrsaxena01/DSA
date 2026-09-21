@@ -66,3 +66,11 @@
             a b c 
             a b c d 
             a b c d e
+
+- reversePyramidOfNumber.cpp
+
+      12345
+       1234
+        123
+         12
+          1
