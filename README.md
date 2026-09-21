@@ -35,6 +35,14 @@
          16 17 18 19 20
          21 22 23 24 25
 
+- rectanglePatternOfAlphabet.cpp
+
+         a b c d e
+         a b c d e
+         a b c d e
+         a b c d e
+         a b c d e
+
 - starPyramid.cpp
          
          * 
@@ -50,3 +58,11 @@
          1 2 3
          1 2 3 4
          1 2 3 4 5 
+
+- pyramidOfAlphabet.cpp
+      
+            a 
+            a b 
+            a b c 
+            a b c d 
+            a b c d e
