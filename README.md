@@ -102,3 +102,11 @@
             ***    ***
             **      **
             *        *
+
+ - noOfDigit.cpp
+  
+       ex:- 547852 - 6
+
+ - reverseOfNumber.cpp
+         
+       ex:- 123456 - 654321
