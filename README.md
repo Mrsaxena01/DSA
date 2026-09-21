@@ -8,3 +8,4 @@
     - fabonacci.cpp
     - perfectSquare.cpp
     - leapYear.cpp
+    - divisibleBy7And11.cpp
