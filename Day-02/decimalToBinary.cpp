@@ -6,18 +6,18 @@ using namespace std;
 
 int main()
 {
-    int num, sum=0, i=0;
+    int num, sum=0, mul=1;
     cout << "Enter a number : ";
     cin >> num;
 
     while(num){
         int digit = num % 2;
-        sum += digit * (10 ^ i++);
+        sum = sum + (digit * mul);
+        mul *= 10;
         num /= 2;
     }
 
     cout << "Binary : " << sum << endl;
     
-    system("pause");
     return 0;
 }
